@@ -1,3 +1,5 @@
+status: focusing Tin Hoc Tre Competition!
+
 Hello Friends.
 + 👩‍💻 My name is Hieu.
 + 👨‍🎓 I'm a student.
