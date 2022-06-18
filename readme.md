@@ -1,4 +1,4 @@
-status: focusing Tin Hoc Tre Competition!
+status: Learning IT and English 
 
 Hello Friends.
 + 👩‍💻 My name is Hieu.
