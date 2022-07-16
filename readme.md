@@ -1,4 +1,4 @@
-status: Learning IT and English 
+status: Learning IT and English and Math
 
 Hello Friends.
 + 👩‍💻 My name is Hieu.
