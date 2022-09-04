@@ -1,6 +1,6 @@
-status: Learning IT and English and Math
+status: Dead Inside.
 
-Hello Friends.
+Hello Friends. Let me introduce myself:
 + 👩‍💻 My name is Hieu.
 + 👨‍🎓 I'm a student.
 + 💻 I'm know how to code pascal, python, cpp.
