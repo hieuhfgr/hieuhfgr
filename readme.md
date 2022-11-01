@@ -1,4 +1,4 @@
-status: Dead Inside.
+Status: Working on CungNhauHocTap Djang Project ✨
 
 Hello Friends. Let me introduce myself:
 + 👩‍💻 My name is Hieu.
