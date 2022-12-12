@@ -1,4 +1,4 @@
-Status: Working on CungNhauHocTap Django Project ✨
+Status: Learning Math and IT :)
 
 Hello Friends. Let me introduce myself:
 + 👩‍💻 My name is Hieu.
